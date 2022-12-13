@@ -1,5 +1,7 @@
 # Mini-Portfolio
 
+![portfolio screen](https://user-images.githubusercontent.com/50504765/207448947-393d1290-8252-490c-b545-d6a53b04eb87.png)
+
 > ### You can see this project working by clicking on the button bellow
 [![aboutme](https://img.shields.io/website?label=Watch_the_Project&style=for-the-badge&url=https://samuelmagalhaes.github.io/mini-portfolio/)](https://samuelmagalhaes.github.io/mini-portfolio/)
 
